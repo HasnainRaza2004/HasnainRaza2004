@@ -7,7 +7,7 @@ Full Stack Developer (MERN)
 * 🌍  I'm based in karachi, Pakistan
 * 🖥️  See my portfolio at [My Website](http://portfolio-rho-ecru-91.vercel.app/)
 * ✉️  You can contact me at [hr9520763@gmail.com](mailto:hr9520763@gmail.com)
-* 🚀  I'm currently working on [External Loan Management System (LMS)](http://https://external.lmstest.co.uk/) and [External Loan Management System (LMS)](http://https://internal.lmstest.co.uk/) 
+* 🚀  I'm currently working on [External Loan Management System (LMS)](http://https://external.lmstest.co.uk/) and [Internal Loan Management System (LMS)](http://https://internal.lmstest.co.uk/) 
 * 🧠  I'm learning and focusing on backend developement using Node JS, Sequelize and Express Js
 * 🤝  I'm open to collaborating on web and mobile apps integerating Ai
 * ⚡  I am also learning Data Science
