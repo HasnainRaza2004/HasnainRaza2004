@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Hasnian Raza
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Hasnain Raza
 ==============================================================================================================================================
 
 Full Stack Developer (MERN)
@@ -10,7 +10,7 @@ Full Stack Developer (MERN)
 * 🚀  I'm currently working on [External Loan Management System (LMS)](http://https://external.lmstest.co.uk/) and [Internal Loan Management System (LMS)](http://https://internal.lmstest.co.uk/) 
 * 🧠  I'm learning and focusing on backend developement using Node JS, Sequelize and Express Js
 * 🤝  I'm open to collaborating on web and mobile apps integerating Ai
-* ⚡  I am also learning Data Science
+* ⚡  I am also a student of BS Data Science
 
 ### Skills
 
