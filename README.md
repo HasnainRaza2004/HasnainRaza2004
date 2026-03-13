@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Engineer | Data & AI Driven Apps</h3>
 
 <p align="center">
-  With over 3.5 years of industry experience, I am a certified Full-Stack MERN Engineer and Data Scientist. I bridge modern web architecture with advanced AI, building intelligent, scalable applications for FinTech and EdTech sectors.
+  With over 3.5 years of industry experience, I am a certified Full-Stack MERN Engineer and Data Science Student. I bridge modern web architecture with advanced AI, building intelligent, scalable applications for FinTech and EdTech sectors.
 </p>
 
 ---
