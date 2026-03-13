@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Engineer | Data & AI Driven Apps</h3>
 
 <p align="center">
-  With over 3.5 years of industry experience, I am a certified Full-Stack MERN Engineer and Data Scientist. I bridge modern web architecture with advanced AI, building intelligent, scalable applications for FinTech and EdTech sectors.
+  With over 3.5 years of industry experience, I am a certified Full-Stack MERN Engineer and Data Science Student. I bridge modern web architecture with advanced AI, building intelligent, scalable applications for FinTech and EdTech sectors.
 </p>
 
 ---
@@ -14,7 +14,6 @@
 * 🤝 I’m open to collaborating on **high-performance web & cross-platform mobile apps** that leverage smart algorithms.
 * 🎓 I have a strong academic foundation, currently completing my **BS in Data Science**.
 * 🌍 I'm based in Karachi, Pakistan.
-* 🖥️ See my portfolio at **[My Website](http://portfolio-rho-ecru-91.vercel.app/)**
 * 📫 Reach out to me directly at **[hasnainraza.dev26@gmail.com](mailto:hasnainraza.dev26@gmail.com)**
 
 ---
