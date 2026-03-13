@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Engineer | Data & AI Driven Apps</h3>
 
 <p align="center">
-  With over 3.5 years of industry experience, I am a certified Full-Stack MERN Engineer and Data Science Student. I bridge modern web architecture with advanced AI, building intelligent, scalable applications for FinTech and EdTech sectors.
+  With over 3.5 years of industry experience, I am a certified Full-Stack MERN Engineer and Data Scientist. I bridge modern web architecture with advanced AI, building intelligent, scalable applications for FinTech and EdTech sectors.
 </p>
 
 ---
@@ -14,6 +14,7 @@
 * 🤝 I’m open to collaborating on **high-performance web & cross-platform mobile apps** that leverage smart algorithms.
 * 🎓 I have a strong academic foundation, currently completing my **BS in Data Science**.
 * 🌍 I'm based in Karachi, Pakistan.
+* 🖥️ See my portfolio at **[My Website](http://portfolio-rho-ecru-91.vercel.app/)**
 * 📫 Reach out to me directly at **[hasnainraza.dev26@gmail.com](mailto:hasnainraza.dev26@gmail.com)**
 
 ---
@@ -56,7 +57,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hasnain-raza-4a2677232" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  <a href="https://www.linkedin.com/in/hasnaindev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
   <a href="https://www.github.com/hasnainraza2004" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
   <a href="https://www.stackoverflow.com/users/17958284/hasnain-raza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
   <a href="https://discord.com/users/hasnainraza2004" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
