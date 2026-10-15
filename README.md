@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/HasnainRaza2004">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FACC15&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Engineer;BS+Data+Science+Student;Building+AI-powered+FinTech+%26+EdTech+apps;Shipping+cross-platform+apps+with+Expo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FACC15&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Engineer;BS+in+Data+Science+Graduate;Building+AI-powered+FinTech+%26+EdTech+apps;Shipping+cross-platform+apps+with+Expo" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,12 +20,12 @@
 
 ## ⚡ About Me
 
-With a couple of years of industry experience, I'm a certified **Full-Stack MERN Engineer** and **Data Science student**. I bridge modern web architecture with advanced AI, building intelligent, scalable applications for the **FinTech** and **EdTech** sectors.
+With a couple of years of industry experience, I'm a certified **Full-Stack MERN Engineer** and **Data Science graduate**. I bridge modern web architecture with advanced AI, building intelligent, scalable applications for the **FinTech** and **EdTech** sectors.
 
 - 🔭 Architecting robust frontends for **External and Internal Loan Management Systems (LMS)**
 - 🧠 Integrating **AI and Data Science** (like supervised NLP models) into modern web apps
 - 📱 Building **cross-platform mobile apps** with Expo and React Native
-- 🎓 Completing my **BS in Data Science**
+- 🎓 Graduated with a **BS in Data Science**
 - 🤝 Open to collaborating on **high-performance web & mobile apps** that leverage smart algorithms
 - 🌍 Based in **Karachi, Pakistan**
 
