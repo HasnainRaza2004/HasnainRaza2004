@@ -1,60 +1,113 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> I'm Muhammad Hasnain Raza</h1>
-<h3 align="center">Full-Stack Engineer | Data & AI Driven Apps</h3>
+<!-- Header -->
+<p align="center">
+  <img src="./assets/header.svg" alt="Header" />
+</p>
 
 <p align="center">
-  With a couple of years of industry experience, I am a certified Full-Stack MERN Engineer and Data Science Student. I bridge modern web architecture with advanced AI, building intelligent, scalable applications for FinTech and EdTech sectors.
+  <a href="https://github.com/HasnainRaza2004">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FACC15&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Engineer;BS+Data+Science+Student;Building+AI-powered+FinTech+%26+EdTech+apps;Shipping+cross-platform+apps+with+Expo" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="http://portfolio-rho-ecru-91.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=vercel&logoColor=facc15" alt="Portfolio" /></a>
+  <a href="mailto:hasnainraza.dev26@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=facc15" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/hasnaindev/"><img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=facc15" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Karachi,_Pakistan-171717?style=for-the-badge&logo=googlemaps&logoColor=facc15" alt="Karachi, Pakistan" />
 </p>
 
 ---
 
-### 🚀 About Me
+## ⚡ About Me
 
-* 🔭 I’m currently architecting robust frontends for **External and Internal Loan Management Systems (LMS)**.
-* 🧠 I’m heavily focused on integrating **AI and Data Science** (like supervised NLP models) into modern web applications.
-* 🤝 I’m open to collaborating on **high-performance web & cross-platform mobile apps** that leverage smart algorithms.
-* 🎓 I have a strong academic foundation, currently completing my **BS in Data Science**.
-* 🌍 I'm based in Karachi, Pakistan.
-* 🖥️ See my portfolio at **[My Website](http://portfolio-rho-ecru-91.vercel.app/)**
-* 📫 Reach out to me directly at **[hasnainraza.dev26@gmail.com](mailto:hasnainraza.dev26@gmail.com)**
+With a couple of years of industry experience, I'm a certified **Full-Stack MERN Engineer** and **Data Science student**. I bridge modern web architecture with advanced AI, building intelligent, scalable applications for the **FinTech** and **EdTech** sectors.
 
----
-
-### 💻 My Tech Stack
-
-* **Frontend & Mobile:** <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="Vue.js" /> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> 
-* **Styling & UI:** <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white" alt="Material UI" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-* **Backend:** <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
-* **Database & BaaS:** <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
-* **Data Science & AI:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-* **UI/UX Design:** <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Adobe_XD-470137?style=flat&logo=adobexd&logoColor=FF61F6" alt="Adobe XD" /> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=black" alt="Photoshop" /> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=black" alt="Illustrator" />
-* **Tools & Web3:** <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=metamask&logoColor=white" alt="MetaMask" />
+- 🔭 Architecting robust frontends for **External and Internal Loan Management Systems (LMS)**
+- 🧠 Integrating **AI and Data Science** (like supervised NLP models) into modern web apps
+- 📱 Building **cross-platform mobile apps** with Expo and React Native
+- 🎓 Completing my **BS in Data Science**
+- 🤝 Open to collaborating on **high-performance web & mobile apps** that leverage smart algorithms
+- 🌍 Based in **Karachi, Pakistan**
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ What I'm Building
 
-<div align="center">
-  <a href="http://www.github.com/hasnainraza2004">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainraza2004&stroke=ffffff&background=171717&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/hasnainraza2004">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainraza2004&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧾 PocketTrash</h3>
+      <p>A receipt scanner: snap a receipt, and <b>Gemini</b> extracts the vendor, date, amount, and tax, then appends it straight to <b>Google Sheets</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Expo-171717?style=flat-square&logo=expo&logoColor=facc15" />
+        <img src="https://img.shields.io/badge/Express-171717?style=flat-square&logo=express&logoColor=facc15" />
+        <img src="https://img.shields.io/badge/Gemini-171717?style=flat-square&logo=googlegemini&logoColor=facc15" />
+        <img src="https://img.shields.io/badge/MongoDB_Atlas-171717?style=flat-square&logo=mongodb&logoColor=facc15" />
+        <img src="https://img.shields.io/badge/Render-171717?style=flat-square&logo=render&logoColor=facc15" />
+      </p>
+      <sub>Expo + Express monorepo · deployed on Render · private repo</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Augmented Decision Support Interface</h3>
+      <p>An AI-assisted interface that helps people make better, data-informed decisions.</p>
+      <sub>Currently working on</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌐 Connect with Me
+## 💻 Tech Stack
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/hasnaindev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-  <a href="https://www.github.com/hasnainraza2004" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-  <a href="https://www.stackoverflow.com/users/17958284/hasnain-raza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
-  <a href="https://discord.com/users/hasnainraza2004" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-  <a href="https://www.behance.com/hasnainraza40" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> 
+**Frontend & Mobile**<br/>
+<img src="https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-171717?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-171717?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> <img src="https://img.shields.io/badge/React_Native-171717?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Expo-171717?style=for-the-badge&logo=expo&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-171717?style=for-the-badge&logo=redux&logoColor=764ABC" /> <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/TypeScript-171717?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+
+**Styling & UI**<br/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-171717?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" /> <img src="https://img.shields.io/badge/Material_UI-171717?style=for-the-badge&logo=mui&logoColor=007FFF" /> <img src="https://img.shields.io/badge/Bootstrap-171717?style=for-the-badge&logo=bootstrap&logoColor=7952B3" /> <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=E34F26" /> <img src="https://img.shields.io/badge/CSS3-171717?style=for-the-badge&logo=css3&logoColor=1572B6" />
+
+**Backend, Database & Cloud**<br/>
+<img src="https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=nodedotjs&logoColor=339933" /> <img src="https://img.shields.io/badge/Express.js-171717?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-171717?style=for-the-badge&logo=mongodb&logoColor=47A248" /> <img src="https://img.shields.io/badge/MySQL-171717?style=for-the-badge&logo=mysql&logoColor=4479A1" /> <img src="https://img.shields.io/badge/Firebase-171717?style=for-the-badge&logo=firebase&logoColor=FFCA28" /> <img src="https://img.shields.io/badge/Supabase-171717?style=for-the-badge&logo=supabase&logoColor=3FCF8E" /> <img src="https://img.shields.io/badge/Render-171717?style=for-the-badge&logo=render&logoColor=white" />
+
+**Data Science & AI**<br/>
+<img src="https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/Jupyter-171717?style=for-the-badge&logo=jupyter&logoColor=F37626" /> <img src="https://img.shields.io/badge/Pandas-171717?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-171717?style=for-the-badge&logo=numpy&logoColor=4DABCF" /> <img src="https://img.shields.io/badge/TensorFlow-171717?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" /> <img src="https://img.shields.io/badge/Gemini-171717?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" />
+
+**UI/UX Design**<br/>
+<img src="https://img.shields.io/badge/Figma-171717?style=for-the-badge&logo=figma&logoColor=F24E1E" /> <img src="https://img.shields.io/badge/Adobe_XD-171717?style=for-the-badge&logo=adobexd&logoColor=FF61F6" /> <img src="https://img.shields.io/badge/Photoshop-171717?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" /> <img src="https://img.shields.io/badge/Illustrator-171717?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
+
+**Tools & Web3**<br/>
+<img src="https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/VS_Code-171717?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" /> <img src="https://img.shields.io/badge/MetaMask-171717?style=for-the-badge&logo=metamask&logoColor=F6851B" />
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hasnainraza2004&show_icons=true&hide_border=true&bg_color=171717&title_color=facc15&icon_color=facc15&text_color=ffffff&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainraza2004&layout=compact&langs_count=8&hide_border=true&bg_color=171717&title_color=facc15&text_color=ffffff" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hasnainraza2004&hide_border=true&background=171717&stroke=facc15&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=facc15&dates=a3a3a3" alt="GitHub Streak" />
 </p>
 
-### ☕ Support Me
+---
 
-<a href="https://www.buymeacoffee.com/hasnainraza"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-<a href="https://www.ko-fi.com/hasnainraza"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hasnaindev/"><img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=facc15" /></a>
+  <a href="https://www.github.com/hasnainraza2004"><img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=facc15" /></a>
+  <a href="https://www.stackoverflow.com/users/17958284/hasnain-raza"><img src="https://img.shields.io/badge/Stack_Overflow-171717?style=for-the-badge&logo=stackoverflow&logoColor=facc15" /></a>
+  <a href="https://discord.com/users/hasnainraza2004"><img src="https://img.shields.io/badge/Discord-171717?style=for-the-badge&logo=discord&logoColor=facc15" /></a>
+  <a href="https://www.behance.com/hasnainraza40"><img src="https://img.shields.io/badge/Behance-171717?style=for-the-badge&logo=behance&logoColor=facc15" /></a>
+</p>
+
+## ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/hasnainraza"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-facc15?style=for-the-badge&logo=buymeacoffee&logoColor=171717" /></a>
+  <a href="https://www.ko-fi.com/hasnainraza"><img src="https://img.shields.io/badge/Ko--fi-facc15?style=for-the-badge&logo=kofi&logoColor=171717" /></a>
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" alt="Footer" />
+</p>
